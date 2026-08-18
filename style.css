@@ -365,7 +365,7 @@ td:hover {
     padding: 12px 14px 26px;
     font-size: 17px;
     line-height: 1.5;
-    font-family: inherit;
+    font-family: "PingFang SC", "Noto Sans SC", "Microsoft YaHei", "Pretendard", "Noto Sans KR", sans-serif;
     word-break: break-word;
     color: #222;
     outline: none;
