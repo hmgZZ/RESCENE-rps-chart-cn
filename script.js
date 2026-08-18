@@ -651,7 +651,7 @@ function createLrGrid() {
 
         const text = document.createElement("textarea");
         text.className = "lr-text";
-        text.rows = 5;
+        text.rows = 1;
         text.maxLength = 150;
         text.placeholder = "자유롭게 적어보세요";
         text.value = lrData.texts[index] || "";
